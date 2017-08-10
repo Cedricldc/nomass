@@ -1,0 +1,327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"magazine",
+				"magazine_get_opt"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/relstudiosnx/Downloads/adioswoo.wordpress.2017-06-22.xml",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/framework/includes/rs-actions-config.php",
+		"/Users/relstudiosnx/Sites/marketingpro/wp-content/themes/marketing/style.css",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/framework/includes/rs-woocommerce-config.php",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/framework/admin/options/advanced.php",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/framework/admin/options-init.php",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/framework/admin/options/shop.php",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/woocommerce/content-product.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/plugins/magazine-addons/shortcodes/rs_blog_small_slider.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style13.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/plugins/magazine-addons/shortcodes/rs_blog_masonry.php",
+		"/private/var/folders/4j/p2gvxx2j7gsd1szblyzns0qr0000gn/T/fz3temp-2/woocommerce.css",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style1.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/framework/includes/rs-frontend-functions.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/framework/includes/rs-helper-functions.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/plugins/magazine-addons/shortcodes/rs_category_block.php",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/animo/page-templates/blog-masonry.php",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/animo/css/main.css",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style9.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style7.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style14.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style15.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style16.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style17.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style18.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style2.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style6.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style8.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style10.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style11.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts/slider-style12.php",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/page-templates/page-landing.php",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/css/style.css",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/plugins/magazine-addons/composer/map.php",
+		"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/css/style.css",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/css/main.css",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/page-templates/portfolio.php",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/single-portfolio.php",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/framework/includes/rs-helper-functions.php",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/templates/portfolio/blank.php",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/framework/admin/metaboxes/portfolio-general.php",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/framework/includes/rs-filters-config.php",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/framework/includes/rs-frontend-functions.php",
+		"/Users/relstudiosnx/Sites/adios/wp-content/themes/adios/templates/portfolio/project-details.php",
+		"/Users/relstudiosnx/Sites/adios/wp-content/plugins/adios-addons/theme-plugins.php",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/animo/page-templates/blog-classic.php",
+		"/Users/relstudiosnx/Downloads/simple-download-monitor/sdm-shortcodes.php",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/animo/header.php",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/pinboard/single.php",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/pinboard/includes/loop.php",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/animo/single.php",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/animo/templates/global/blog-after-content.php",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/animo/templates/global/blog-before-content.php",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/animo/sidebar.php",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/animo/templates/blog/blog-single/content-single.php",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/animo/comments.php",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/animo/page-templates/portfolio.php",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/animo/page-templates/home.php",
+		"/Users/relstudiosnx/Sites/marketingpro/wp-content/plugins/marketing-addons/shortcodes/rs_icon_box.php",
+		"/Users/relstudiosnx/Sites/marketingpro/wp-content/plugins/marketing-addons/composer/map.php",
+		"/Users/relstudiosnx/Sites/marketingpro/wp-content/themes/marketing/css/style.css",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/wpml-config.xml",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/style.css",
+		"/Users/relstudiosnx/Sites/freebiezag/wp-content/themes/pinboard/style.css",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/404.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/archive.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/comments.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/footer.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/metaboxes-init.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/metaboxes/blog-latest-post.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/metaboxes/contact.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/metaboxes/custom-ads.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/metaboxes/featured-area.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/metaboxes/layout.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/metaboxes/post-gallery.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/metaboxes/post-video.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/metaboxes/sidebar.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options-init.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options/author-social.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options/custom-ads.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options/custom_code.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options/customizer.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options/export.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options/favicon.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options/fonts.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options/footer.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options/general.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options/post.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options/preheader.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options/slider.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options/social-site.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/options/topheader.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/admin/redux-extensions/extensions/metaboxes/extension_metaboxes.js",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/includes/rs-actions-config.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/includes/rs-filters-config.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/includes/rs-frontend-functions.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/includes/rs-helper-functions.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/includes/rs-include-config.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/includes/rs-menu-walker.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/includes/rs-woocommerce-config.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/includes/widgets/WP_Custom_Ads_Widget.class.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/includes/widgets/WP_Latest_Posts_Widget.class.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/framework/includes/widgets/WP_Social_Widget.class.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/functions.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/header.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/index.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/languages/en_US.po",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/page-templates/blog-classic-grid-combo.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/page-templates/blog-classic-grid.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/page-templates/blog-classic.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/page-templates/blog-grid-post-series-alt.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/page-templates/blog-grid-post-series-no-category.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/page-templates/blog-grid-post-series.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/page-templates/blog-grid.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/page-templates/blog-list.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/page-templates/blog-one-classic-with-two-combo.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/page-templates/contact.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/page.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/search.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/single.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/templates/blog/blog-classic/content-gallery.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/templates/blog/blog-classic/content-latest.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/templates/blog/blog-classic/content-video.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/templates/blog/blog-classic/content.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/templates/blog/blog-classic/parts/content.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/templates/blog/blog-grid/content-gallery.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/templates/blog/blog-grid/content-latest.php",
+		"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro/templates/blog/blog-grid/content-video.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/relstudiosnx/Sites/magazinepro/wp-content/themes/magazinepro/templates/slider/layouts",
+			"/Users/relstudiosnx/Downloads/simple-download-monitor",
+			"/Users/relstudiosnx/Sites/magpro/wp-content/themes/magpro",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http://www.themebubble.com/demo/adioswoo/wp-content/uploads/",
+			"coupon code",
+			"opacity:0.80",
+			"slider",
+			"logo-container",
+			"body",
+			"slider-show-pagination",
+			"tt-post-img img",
+			"adios_portfolio_single_template",
+			"November",
+			"download_button_code",
+			"sdm_download_link",
+			"logo-container",
+			"logo",
+			"tt-service",
+			"flexzine",
+			"Montserrat",
+			"Roboto",
+			"placeholder",
+			";\n",
+			"reached"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"https://relstudiosnx.github.io/adios/",
+			"slider-show-pagination-switch",
+			"magpro",
+			"Lato",
+			"Montserrat",
+			"Roboto"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "all.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
